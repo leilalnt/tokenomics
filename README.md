@@ -22,6 +22,6 @@
   title = {داده‌های خام مقالهٔ توکنومیک},
   school = {دانشگاه تهران},
   year = {۱۴۰۴},
-  howpublished = {\url{https://github.com/[username]/[repository-name]}}
+  howpublished = {\url{https://github.com/leilalnt/tokenomics}}
 }
 ```
